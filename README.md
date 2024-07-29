@@ -1,2 +1,2 @@
 # Myoelectric-hand-prosthesis-code-C-
-Myoelectric hand prosthesis code
+As part of our 4th year of engineering studies at ESME-SUDRIA, I was part of a team project during that aimed to make a prosthetic hand with limited functionalities and grip in 3 months. During this project, I was in charge of the 3D printing of the hand, and also helped my team with the C++ code. In this folder, there is the code used for the Arduino card that controlled the motor and received inputs from the Electromyogram Sensor. 
